@@ -10,10 +10,11 @@ For the Maven Northwind Challenge, you'll be working as a BI Developer for North
 
 As part of your role, you've been tasked with building a top-level KPI dashboard for the executive team. Its purpose should be to allow them to quickly understand the company's performance in key areas, including:
 
-Sales trends
-Product performance
-Key customers
-Shipping costs
+ * Sales trends
+ * Product performance
+ * Key customers
+ * Shipping costs
+ 
 The dashboard should be built to evolve and accommodate new data over time, but you've been encouraged by your manager to have insights & recommendations ready to share with the VPs. This is your chance to impress!
 
 ### Data Preprocessing
@@ -27,7 +28,6 @@ The dashboard should be built to evolve and accommodate new data over time, but 
  *  Avg Shipping Cost: 78.24$
  *  Total Number of Products: 77
  *  Total Sales: 1.35 Million
- *  
  
  
  Power BI Dashboard Image
